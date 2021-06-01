@@ -1,2 +1,2 @@
-# Fuzzy Logic with Mamdani Model
-This our project for our Artificial Intelligence course
+# Fuzzy Logic
+Fuzzy logic but with the Mamdani model
